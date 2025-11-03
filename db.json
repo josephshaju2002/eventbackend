@@ -1,3 +1,44 @@
 {
-    "events":[ ]
+  "bookings": [
+    {
+      "id": "1694",
+      "name": "Jefry Paul",
+      "email": "jefrypaul73@gmail.com",
+      "phone": "9061038240",
+      "date": "2025-11-30",
+      "venue": "Muvattupuzha",
+      "requirements": "qwertyuiop",
+      "event": "Wedding Ceremony"
+    },
+    {
+      "id": "5a0d",
+      "name": "erty",
+      "email": "srwe@gmail.com",
+      "phone": "345",
+      "date": "2025-11-30",
+      "venue": "ewrt",
+      "requirements": "dst",
+      "event": "Wedding Ceremony"
+    },
+    {
+      "id": "e78b",
+      "name": "sd",
+      "email": "sadf@gmail.com",
+      "phone": "2345",
+      "date": "2025-11-30",
+      "venue": "sdf",
+      "requirements": "xgcvb",
+      "event": "Wedding Ceremony"
+    },
+    {
+      "id": "fc2a",
+      "name": "asdf",
+      "email": "asdf@gmail.com",
+      "phone": "2345",
+      "date": "2025-11-30",
+      "venue": "zxcv",
+      "requirements": "qwer",
+      "event": "Wedding Ceremony"
+    }
+  ]
 }
