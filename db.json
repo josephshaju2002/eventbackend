@@ -1,4 +1,60 @@
 {
+  "events": [
+    {
+      "id": "1",
+      "title": "Wedding Ceremony",
+      "image": "https://media.istockphoto.com/id/471906412/photo/beautiful-table-setting-for-an-wedding-reception-or-an-event.jpg?s=612x612&w=0&k=20&c=knlIBspy-ZKuQV7bUVr_eclJmyC24ShNAva_Jh9Rwfc=",
+      "description": "Plan your dream wedding with elegant décor, catering, and venue arrangements to make your special day perfect."
+    },
+    {
+      "id": "2",
+      "title": "Corporate Events",
+      "image": "https://hunterevents.net/previews/sales-kick-off-corporate-conference-january-2023.webp?1750961517",
+      "description": "Host professional corporate meetings, conferences, and seminars with seamless organization and premium facilities."
+    },
+    {
+      "id": "3",
+      "title": "Birthday Parties",
+      "image": "https://www.i-eventplanner.com/wp-content/uploads/2018/07/Birthday-Party-planner.jpg",
+      "description": "Celebrate birthdays in style with themed decorations, entertainment, and delicious catering services."
+    },
+    {
+      "id": "4",
+      "title": "Music Concerts",
+      "image": "https://cdn.britannica.com/58/155258-050-2F8189A9/Symphony-concert-Svetlanov-Hall-Moscow-International-House.jpg",
+      "description": "Organize spectacular live music performances with professional sound, lighting, and stage setup."
+    },
+    {
+      "id": "5",
+      "title": "Cultural Events",
+      "image": "https://img2.chinadaily.com.cn/images/201911/04/5dbf7da3a310cf3e97a4200f.jpeg",
+      "description": "Celebrate art, dance, and heritage through well-planned cultural festivals and traditional programs."
+    },
+    {
+      "id": "6",
+      "title": "Product Launches",
+      "image": "https://c8.alamy.com/comp/WA9W52/guests-attend-the-new-product-launch-event-for-huawei-honor-9x-series-smartphones-in-xian-city-northwest-chinas-shaanxi-province-23-july-2019-h-WA9W52.jpg",
+      "description": "Create impactful product launches that leave a lasting impression with innovative staging and design."
+    },
+    {
+      "id": "7",
+      "title": "Fashion Shows",
+      "image": "https://www.jdinstitute.edu.in/media/2023/11/What-is-Fashion-Event-Management-and-How-Can-You-Make-a-Career-in-it-thumbnail-scaled-1024x684.jpg",
+      "description": "Host glamorous fashion shows with runway setup, lighting design, and backstage coordination."
+    },
+    {
+      "id": "8",
+      "title": "Award Ceremonies",
+      "image": "https://www.oscars.org/sites/oscars/files/95_tc_0001.jpg",
+      "description": "Organize grand award nights with stage décor, audiovisuals, and smooth event execution."
+    },
+    {
+      "id": "9",
+      "title": "Charity Events",
+      "image": "https://www.iceindia.biz/wp-content/uploads/2017/10/charity-fundraising-event2-1-960x640.jpg",
+      "description": "Plan meaningful charity and fundraising events to support communities and social causes."
+    }
+  ],
   "bookings": [
     {
       "id": "1694",
@@ -38,6 +94,26 @@
       "date": "2025-11-30",
       "venue": "zxcv",
       "requirements": "qwer",
+      "event": "Wedding Ceremony"
+    },
+    {
+      "id": "db3a",
+      "name": "asdf",
+      "email": "asdf@gmail.com",
+      "phone": "2345",
+      "date": "2025-11-30",
+      "venue": "asdf",
+      "requirements": "zxcv",
+      "event": "Wedding Ceremony"
+    },
+    {
+      "id": "6a43",
+      "name": "qwer",
+      "email": "qwer@gmail.com",
+      "phone": "asdf",
+      "date": "2025-11-30",
+      "venue": "asdfasdf",
+      "requirements": "asfd",
       "event": "Wedding Ceremony"
     }
   ]
